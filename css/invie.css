@@ -375,11 +375,6 @@ input:focus, textarea:focus{
 	.menu ul{
 		padding: 0;
 	}
-	/* guitarras */
-	./*video-demo{
-		margin: 0 10px;
-	}*/
-	/* guitarras */
 }
 @media screen and (max-width: 500px) {
 	/* portada */
