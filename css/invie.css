@@ -403,7 +403,7 @@ input:focus, textarea:focus{
 	}
 	.menu{
 		background: rgba(255, 60, 88, 0.8);
-		position: absolute;
+		position: fixed;
 		left: -100%;
 		top: 0;
 		bottom: 0;
